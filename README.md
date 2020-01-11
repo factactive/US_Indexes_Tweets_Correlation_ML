@@ -4,3 +4,7 @@
 Uses Twitter Developer Account set up specifically for this purpose:
 	User: BWPython
 	Pass: PythonDeveloper2020
+
+Git add -A
+git commit -m "message"
+git push origin master
